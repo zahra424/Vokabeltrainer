@@ -5,6 +5,6 @@ Ein kleines Python-Programm zum Üben von Deutschvokabeln.
 - meldet, ob die Antwort richtig oder falsch ist
 
 
-python vokabeltrainer.py
+python german_hub.py
 
 Entstanden als Lernprojekt, mit Unterstützung von KI-Tools.
